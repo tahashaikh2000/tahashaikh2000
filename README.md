@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Shaikh</h1>
 <h3 align="center">A passionate full Stack Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashaikh2000&label=Profile%20views&color=0e75b6&style=flat" alt="tahashaikh2000" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahashaikh2000&label=Profile%20views&color=0e75b6&style=flat" alt="tahashaikh2000" /> </p> -->
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
 
