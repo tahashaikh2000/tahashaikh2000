@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tahashaikh.3000@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K3d-6bcEjNt8_DROqC-CLTcjXM9E4PDKNnlHrogzXlo/edit?usp=sharing](https://docs.google.com/document/d/1K3d-6bcEjNt8_DROqC-CLTcjXM9E4PDKNnlHrogzXlo/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1K3d-6bcEjNt8_DROqC-CLTcjXM9E4PDKNnlHrogzXlo/edit?usp=sharing](https://drive.google.com/file/d/1rgETZnh_raphkquNIRvmaQ1fnb0M4n6y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
